@@ -1,0 +1,16 @@
+body { background-color: rgba(209,209,209,0.5);}
+h1 {
+  color: skyblue;
+	font-size: 60px;
+	font-family: Arial;
+}
+h1, h2, h3, h4, h5, p, ul, img { text-align: center; } 
+.text-justify { text-align:center; text-decoration: none;}
+p { color : grey; }
+{ border:black 1px;boder-radius: 5px; box-shadow: 3px white;
+height:200px; width:80px;margin:20px ;padding:10px; text-decoration:none;}
+
+.background { background-color:whitesmoke; padding: 40px; box-shadow:0px 10px 30px rgba(0, 0, 0, 0.1);border-radius:5px; margin: 20px}
+.image { border-radius:50% ; display: block;margin-left: auto; margin-right: auto; width: 50%; : border: black 5px;}
+.btn {text-align: center; width: 50%; display: block; margin-right: auto;margin-left: auto}
+.container { width: 700px; margin:40px auto;}
